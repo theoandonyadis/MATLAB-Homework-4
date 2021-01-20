@@ -1,1 +1,2 @@
 # MATLAB-Homework-4
+Part A plots two functions, y1 and y2 on the same plane from x=-7 to 7 at intervals of 0.1. Part B labels each plot with equations in corresponding colors. Part C positions the origin in the middle. Part D creates a square grid. Part E creates x and y tick labels. Part F finds the intersection points of the two curves, and Part G places round markers at these points. Part H annotates the intersection points with x and y values. Part I adds arrows to both axes.
